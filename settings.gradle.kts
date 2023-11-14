@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Custom ListView"
+rootProject.name = "PiApp"
 include(":app")
- 
